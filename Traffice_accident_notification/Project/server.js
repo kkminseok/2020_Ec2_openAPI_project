@@ -471,7 +471,7 @@ request(url, function(error, response, html){
 });
 */
 /*
-var url = 'http://taas.koroad.or.kr/data/rest/frequentzone/motorcycle?authKey=UysMeUKbhH9DH8QP6924vnaXrHrS%2Fq4OHOKT664KLMPkGIMjUmuwYgreQBOgMOib&searchYearCd=2020058&sido=11&guGun=680&type=json';
+인증키부분
 request(url, function(error, response, html){
     if (error) {throw error};
     console.log (html);
